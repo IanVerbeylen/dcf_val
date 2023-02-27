@@ -1,3 +1,3 @@
 # dcf_val
 
-with data from Umicore, not formatted yet
+with data from Umicore, main.ipynb unformatted

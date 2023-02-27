@@ -1,0 +1,158 @@
+﻿Country,GDP (in billions),Rating-based Default Spread,Corporate Tax Rate,Region
+Angola,72546.98571,0.079525459,0.25,Africa
+Benin,17785.64008,0.055078211,0.3,Africa
+Botswana,17613.84647,0.014668349,0.22,Africa
+Burkina Faso,19737.61511,0.091749083,0.28,Africa
+Cameroon,45238.61348,0.067301835,0.33,Africa
+Cape Verde,1.7,0.079525459,0,Africa
+Congo (Democratic Republic of),53958.57369,0.079525459,0.3,Africa
+Congo (Republic of),12523.96168,0.110156422,0.28,Africa
+Côte d'Ivoire,69764.82747,0.044005046,0.25,Africa
+Egypt,404142.7661,0.067301835,0.225,Africa
+Ethiopia,111271.1123,0.110156422,0.3,Africa
+Gabon,18269.35043,0.091749083,0.3,Africa
+Ghana,77594.27905,0.146827294,0.25,Africa
+Kenya,110347.0795,0.067301835,0.3,Africa
+Mali,19143.7415,0.110156422,0.2281,Africa
+Mauritius,11156.65777,0.026891972,0.15,Africa
+Morocco,132725.2615,0.030630963,0.31,Africa
+Mozambique,16095.8289,0.110156422,0.32,Africa
+Namibia,12236.25078,0.055078211,0.32,Africa
+Niger,14950.94988,0.079525459,0.2281,Africa
+Nigeria,440776.9715,0.079525459,0.3,Africa
+Rwanda,11070.35652,0.067301835,0.3,Africa
+Senegal,27625.38835,0.044005046,0.3,Africa
+South Africa,419946.4281,0.036814679,0.27,Africa
+Swaziland,4941.373182,0.079525459,0.275,Africa
+Tanzania,67775.10179,0.067301835,0.3,Africa
+Togo,8413.200568,0.079525459,0.2281,Africa
+Tunisia,46840.04294,0.091749083,0.15,Africa
+Uganda,40434.70152,0.067301835,0.3,Africa
+Zambia,21203.05908,0.146827294,0.35,Africa
+Bangladesh,416264.9429,0.044005046,0.325,Asia
+Cambodia,26961.06112,0.067301835,0.2,Asia
+China,17734062.65,0.00862844,0.25,Asia
+Fiji,4592.11871,0.055078211,0.2,Asia
+Hong Kong,346600,0.007334174,0.165,Asia
+India,3173397.591,0.026891972,0.3,Asia
+Indonesia,1186092.991,0.023296789,0.15,Asia
+Japan,4937421.88,0.00862844,0.232,Asia
+Korea,1630.53,0.006039908,0.25,Asia
+Laos,18827.14853,0.122380046,0.2281,Asia
+Macao,29905.19018,0.007334174,0.2281,Asia
+Malaysia,372701.3588,0.014668349,0.24,Asia
+Maldives,4889.666932,0.091749083,0.2281,Asia
+Mongolia,15098.02283,0.079525459,0.25,Asia
+Pakistan,346343.1705,0.091749083,0.29,Asia
+Papua New Guinea,26594.27725,0.067301835,0.3,Asia
+Philippines,394086.4193,0.023296789,0.25,Asia
+Singapore,396986.8999,0,0.17,Asia
+Solomon Islands,1645.213882,0.091749083,0.3,Asia
+Sri Lanka,84518.83039,0.146827294,0.24,Asia
+Taiwan,689000,0.007334174,0.2,Asia
+Thailand,505981.6556,0.019557798,0.2,Asia
+Vietnam,362637.5241,0.036814679,0.2,Asia
+Australia,1542659.9,0,0.3,Australia & New Zealand
+Cook Islands,0.384,0.055078211,0.2843,Australia & New Zealand
+New Zealand,249991.5122,0,0.28,Australia & New Zealand
+Aruba,2496.648045,0.023296789,0.25,Caribbean
+Bahamas,11.209,0.055078211,0,Caribbean
+Barbados,4900.8,0.091749083,0.055,Caribbean
+Bermuda,7080.9,0.010354128,0,Caribbean
+Cayman Islands,5608.989196,0.007334174,0,Caribbean
+Cuba,107352,0.146827294,0.2718,Caribbean
+Curacao,3.1,0.023296789,0.22,Caribbean
+Dominican Republic,94243.45394,0.044005046,0.27,Caribbean
+Jamaica,13638.231,0.067301835,0.25,Caribbean
+Montserrat,25000,0.026891972,0.2718,Caribbean
+St. Maarten,11900,0.036814679,0.2718,Caribbean
+St. Vincent & the Grenadines,8100,0.079525459,0.2718,Caribbean
+Trinidad and Tobago,21391.80231,0.036814679,0.3,Caribbean
+Turks and Caicos Islands,943.269768,0.019557798,0,Caribbean
+Argentina,491492.7007,0.146827294,0.35,Central and South America
+Belize,1789.923264,0.110156422,0.2718,Central and South America
+Bolivia,40408.20852,0.067301835,0.25,Central and South America
+Brazil,1608981.221,0.036814679,0.34,Central and South America
+Chile,317058.5087,0.010354128,0.27,Central and South America
+Colombia,314322.4532,0.023296789,0.35,Central and South America
+Costa Rica,64282.43867,0.067301835,0.3,Central and South America
+Ecuador,106165.866,0.122380046,0.25,Central and South America
+El Salvador,28736.94,0.122380046,0.3,Central and South America
+Guatemala,85986.32155,0.030630963,0.25,Central and South America
+Honduras,28488.6683,0.055078211,0.25,Central and South America
+Mexico,1293037.866,0.023296789,0.3,Central and South America
+Nicaragua,14013.02209,0.079525459,0.3,Central and South America
+Panama,63605.0658,0.023296789,0.25,Central and South America
+Paraguay,38986.81099,0.030630963,0.1,Central and South America
+Peru,223249.4975,0.019557798,0.295,Central and South America
+Suriname,2862.13198,0.122380046,0.36,Central and South America
+Uruguay,59319.54764,0.023296789,0.25,Central and South America
+Venezuela,98400,0.175,0.34,Central and South America
+Albania,18260.0435,0.055078211,0.15,Eastern Europe & Russia
+Armenia,13861.18387,0.044005046,0.18,Eastern Europe & Russia
+Azerbaijan,54622.17647,0.030630963,0.2,Eastern Europe & Russia
+Belarus,68218.81648,0.146827294,0.18,Eastern Europe & Russia
+Bosnia and Herzegovina,22571.51287,0.079525459,0.1,Eastern Europe & Russia
+Bulgaria,80271.11943,0.019557798,0.1,Eastern Europe & Russia
+Croatia,67837.78854,0.023296789,0.18,Eastern Europe & Russia
+Czech Republic,282340.8499,0.007334174,0.19,Eastern Europe & Russia
+Estonia,36262.92435,0.00862844,0.2,Eastern Europe & Russia
+Georgia,18700.24139,0.036814679,0.15,Eastern Europe & Russia
+Hungary,182280.5176,0.023296789,0.09,Eastern Europe & Russia
+Kazakhstan,190814.2742,0.023296789,0.2,Eastern Europe & Russia
+Kyrgyzstan,8543.423503,0.079525459,0.1,Eastern Europe & Russia
+Latvia,38872.54623,0.014668349,0.2,Eastern Europe & Russia
+Lithuania,65503.8497,0.010354128,0.15,Eastern Europe & Russia
+Macedonia,13879.26915,0.044005046,0.1,Eastern Europe & Russia
+Moldova,13679.22133,0.079525459,0.12,Eastern Europe & Russia
+Montenegro,5809.170962,0.055078211,0.15,Eastern Europe & Russia
+Poland,674048.2664,0.010354128,0.19,Eastern Europe & Russia
+Romania,284087.5637,0.026891972,0.16,Eastern Europe & Russia
+Russia,1775799.919,0.091749083,0.2,Eastern Europe & Russia
+Serbia,63068.1346,0.036814679,0.15,Eastern Europe & Russia
+Slovakia,114870.7064,0.010354128,0.21,Eastern Europe & Russia
+Slovenia,61526.33189,0.014668349,0.19,Eastern Europe & Russia
+Tajikistan,8746.270636,0.079525459,0.18,Eastern Europe & Russia
+Ukraine,200085.5377,0.122380046,0.18,Eastern Europe & Russia
+Uzbekistan,69238.90311,0.055078211,0.15,Eastern Europe & Russia
+Abu Dhabi,446000,0.006039908,0.15,Middle East
+Bahrain,38868.66303,0.067301835,0,Middle East
+Iraq,207889.3337,0.091749083,0.15,Middle East
+Israel,481591.2661,0.00862844,0.23,Middle East
+Jordan,45243.66197,0.055078211,0.2,Middle East
+Kuwait,105960.2257,0.00862844,0.15,Middle East
+Lebanon,18076.62484,0.175,0.17,Middle East
+Oman,85868.62653,0.044005046,0.15,Middle East
+Qatar,179570.7836,0.007334174,0.1,Middle East
+Ras Al Khaimah (Emirate of),35200,0.014668349,0,Middle East
+Saudi Arabia,833541.2366,0.00862844,0.2,Middle East
+Sharjah,24800,0.030630963,0,Middle East
+United Arab Emirates,358868.7652,0.006039908,0,Middle East
+Canada,1990761.61,0,0.25,North America
+United States,22996100,0,0.25,North America
+Andorra (Principality of),3.33,0.023296789,0.1898,Western Europe
+Austria,477082.4675,0.00488945,0.24,Western Europe
+Belgium,599879.0254,0.007334174,0.25,Western Europe
+Cyprus,27719.33767,0.030630963,0.125,Western Europe
+Denmark,397104.3435,0,0.22,Western Europe
+Finland,299155.2376,0.00488945,0.2,Western Europe
+France,2937472.758,0.006039908,0.25,Western Europe
+Germany,4223116.206,0,0.3,Western Europe
+Greece,216240.5895,0.044005046,0.22,Western Europe
+Guernsey (States of),3180,0,0,Western Europe
+Iceland,25458.93392,0.010354128,0.2,Western Europe
+Ireland,498559.5767,0.00862844,0.125,Western Europe
+Isle of Man,7315.388052,0.007334174,0,Western Europe
+Italy,2099880.198,0.026891972,0.24,Western Europe
+Jersey (States of),4890,0,0,Western Europe
+Liechtenstein,6427.248943,0,0.125,Western Europe
+Luxembourg,86710.80334,0,0.2494,Western Europe
+Malta,17189.73047,0.010354128,0.35,Western Europe
+Netherlands,1018007.057,0,0.258,Western Europe
+Norway,482437.0198,0,0.22,Western Europe
+Portugal,249886.4644,0.023296789,0.21,Western Europe
+Spain,1425276.586,0.019557798,0.25,Western Europe
+Sweden,627437.8989,0,0.206,Western Europe
+Switzerland,812866.9289,0,0.18,Western Europe
+Turkey,815271.7517,0.079525459,0.23,Western Europe
+United Kingdom,3186859.739,0.007334174,0.25,Western Europe
